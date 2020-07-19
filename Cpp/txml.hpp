@@ -1,5 +1,5 @@
-ifndef txml_hpp
-define txml_hpp
+#ifndef txml_hpp
+#define txml_hpp
 
 #include <iostream>
 
